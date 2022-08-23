@@ -1,34 +1,29 @@
 {
   "files": {
-    "main.css": "/gericht/static/css/main.4bb32350.css",
-    "main.js": "/gericht/static/js/main.90c3a2c6.js",
-    "static/media/meal.mp4": "/gericht/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "main.css": "/gericht/static/css/main.5a619422.css",
+    "main.js": "/gericht/static/js/main.f189d250.js",
     "static/media/bg.png": "/gericht/static/media/bg.3d421b1b5682e1b67deb.png",
-    "static/media/welcome.png": "/gericht/static/media/welcome.d724eb984456d9c97470.png",
-    "static/media/findus.png": "/gericht/static/media/findus.585c393ccd3671513743.png",
-    "static/media/laurels.png": "/gericht/static/media/laurels.e760828692795d4aafd7.png",
-    "static/media/chef.png": "/gericht/static/media/chef.02d6c5b61bfdc70303b4.png",
-    "static/media/menu.png": "/gericht/static/media/menu.a8287c67809afebcc280.png",
-    "static/media/gallery04.png": "/gericht/static/media/gallery04.c36a695f8a3b9d311106.png",
-    "static/media/gallery03.png": "/gericht/static/media/gallery03.b2d50180e8590d4dd330.png",
-    "static/media/gallery02.png": "/gericht/static/media/gallery02.27663bd9016b72ccd328.png",
-    "static/media/gallery01.png": "/gericht/static/media/gallery01.f2cbffe3049d6f91e0df.png",
-    "static/media/knife.png": "/gericht/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/test2.mp4": "/gericht/static/media/test2.7c1a40f4d7558addd5f1.mp4",
+    "static/media/welcome.png": "/gericht/static/media/welcome.43f497e0142104c84005.png",
+    "static/media/findus.png": "/gericht/static/media/findus.656b4b08996496486da6.png",
+    "static/media/laurels.png": "/gericht/static/media/laurels.f84d5f90db93e9403ea3.png",
+    "static/media/chef.png": "/gericht/static/media/chef.9e0163d167821c7c6ae2.png",
+    "static/media/menu.png": "/gericht/static/media/menu.2c21aed22511156004dd.png",
+    "static/media/gallery04.png": "/gericht/static/media/gallery04.4f200c21277c751ca525.png",
+    "static/media/gallery03.png": "/gericht/static/media/gallery03.9b746219fc87ffa20126.png",
     "static/media/overlaybg.png": "/gericht/static/media/overlaybg.165362eea72d1614ae28.png",
-    "static/media/G.png": "/gericht/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/gallery02.png": "/gericht/static/media/gallery02.73763634449b360f8176.png",
+    "static/media/gallery01.png": "/gericht/static/media/gallery01.d9d5c3189a6fb02e92ec.png",
+    "static/media/knife.png": "/gericht/static/media/knife.6623ab75ae4ebb170321.png",
     "static/media/logo.png": "/gericht/static/media/logo.0286194c03de0a90dac9.png",
-    "static/media/award02.png": "/gericht/static/media/award02.8bbdd51499739653b003.png",
-    "static/media/award05.png": "/gericht/static/media/award05.48a7f5206184009dcb29.png",
-    "static/media/award01.png": "/gericht/static/media/award01.361a4bc44b59b55abeda.png",
-    "static/media/award03.png": "/gericht/static/media/award03.3f7ee934c17dccbd5fc6.png",
     "static/media/sign.png": "/gericht/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/gericht/index.html",
     "static/media/spoon.svg": "/gericht/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.4bb32350.css.map": "/gericht/static/css/main.4bb32350.css.map",
-    "main.90c3a2c6.js.map": "/gericht/static/js/main.90c3a2c6.js.map"
+    "main.5a619422.css.map": "/gericht/static/css/main.5a619422.css.map",
+    "main.f189d250.js.map": "/gericht/static/js/main.f189d250.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bb32350.css",
-    "static/js/main.90c3a2c6.js"
+    "static/css/main.5a619422.css",
+    "static/js/main.f189d250.js"
   ]
 }
