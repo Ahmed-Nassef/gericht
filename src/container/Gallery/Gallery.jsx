@@ -4,7 +4,7 @@ import images from '../../constants/images';
 import {FiInstagram} from 'react-icons/fi';
 
 const Gallery = () => {
-    let galleryImages = [images.gallery01,images.gallery02,images.gallery03,images.gallery04,];
+    let galleryImages = [images.gallery01,images.gallery02,images.gallery03,images.min];
 
     let gallery = document.getElementsByClassName('gallery-images');
     gallery.scrollLeft += 200;
