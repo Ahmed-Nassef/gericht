@@ -10,7 +10,7 @@ p{
   line-height: var(--lineHeight);
 }
 .button{
-  margin-top: 1rem;
+  margin-top: 2rem;
   padding: 0.5rem 1.5rem;
   background-color: #fff;
   font-family: var(--font-base);
@@ -18,7 +18,7 @@ p{
   text-transform: capitalize;
 }
 .section-background{
-  background-image: url(./assets/bg.png);
+  background-image: url(./assets/bg.webp);
   background-attachment: fixed;
   background-size: cover;
 

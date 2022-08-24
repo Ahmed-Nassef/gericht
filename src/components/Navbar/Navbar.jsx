@@ -10,7 +10,7 @@ const Navbar = () => {
   <nav className='p-5 flex justify-between text-white items-center'>
 
     <div className='Navbar_logo'>
-      <img src={images.gericht} className='w-40 cursor-pointer'/>
+      <img src={images.gericht} alt="logo" className='w-40 cursor-pointer'/>
     </div>
 
     <div className='nav_links hidden lg:block'>

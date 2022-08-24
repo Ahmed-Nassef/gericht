@@ -1,7 +1,6 @@
 import React from 'react';
 import SubHeading from '../../components/SubHeading/SubHeading';
 import {images,data} from '../../constants';
-import './Laurels.css';
 
 const Laurels = () => {
 

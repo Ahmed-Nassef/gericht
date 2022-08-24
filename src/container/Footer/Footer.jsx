@@ -3,7 +3,6 @@ import SubHeading from '../../components/SubHeading/SubHeading';
 import images from '../../constants/images';
 import {FiFacebook,FiInstagram,FiTwitter} from 'react-icons/fi';
 
-import './Footer.css';
 
 const Footer = () => (
   <footer id='footer' className='relative section-background'>

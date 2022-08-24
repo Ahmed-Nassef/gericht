@@ -4,10 +4,7 @@ import images from '../../constants/images';
 import {FiInstagram} from 'react-icons/fi';
 
 const Gallery = () => {
-    let galleryImages = [images.gallery01,images.gallery02,images.gallery03,images.min];
-
-    let gallery = document.getElementsByClassName('gallery-images');
-    gallery.scrollLeft += 200;
+    let galleryImages = [images.gallery01,images.gallery02,images.gallery03,images.gallery04];
 
   return (
 
@@ -26,7 +23,7 @@ const Gallery = () => {
               galleryImages.map((img, index)=> (
                 <div className='relative min-w-[310px] group flex items-center justify-center h-[440px] mr-8 transition hover:before:duration-700 before:absolute before:block before:w-full before:h-full before:bg-black before:opacity-0 hover:before:opacity-50'>
                   <FiInstagram fontSize={37} color={'white'} className='absolute hidden group-hover:block cursor-pointer' />
-                  <img src={img} key={index} className='object-cover h-full w-full' />
+                  <img src={img} key={index} alt={`img${index}`} className='object-cover h-full w-full' />
                 </div>
               ))
             }

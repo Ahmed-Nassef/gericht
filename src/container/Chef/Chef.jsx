@@ -21,7 +21,7 @@ const Chef = () => (
 Auctor Sit Iaculis In Arcu. Vulputate Nulla Lobortis Mauris Eget Sit. Nulla Scelerisque Scelerisque Congue Ac Consequat, Aliquam Molestie Lectus Eu. Congue Iaculis Integer Curabitur Semper Sit Nunc.</p>
             </div>
             <div className='chef-more-details mt-12'>
-              <h4 className='p-Cormorant text-[30px] tracking-wider' style={{color: '#DCCA87'}}>kevin luo</h4>
+              <h3 className='p-Cormorant text-[30px] tracking-wider' style={{color: '#DCCA87'}}>kevin luo</h3>
               <p className='p-openSans text-[#fff]'>chef & founder</p>
               <img src={images.sign} alt="sign" className='max-w-[220px] mt-12' />
             </div>
