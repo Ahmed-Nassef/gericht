@@ -44,8 +44,8 @@ const SpecialMenu = () => (
             </div>
           </div>
         </div>
-        <div>
-          <button className='button'>view more</button>
+        <div className='bar-link mt-8'>
+          <a className='button' href='/Bar'>view more</a>
         </div>
 
       </div>

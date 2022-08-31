@@ -1,7 +1,7 @@
 /* navbar custom classes */
-nav{
+/* nav{
   background-color: var(--color-black);
-}
+} */
 .link-hover:hover{
   color: var(--color-grey);
 }

@@ -7,7 +7,7 @@ const Navbar = () => {
   let [toggle, setToggle] = useState(false);
   return(
 
-  <nav className='p-5 flex justify-between text-white items-center'>
+  <nav className='py-7 px-7 w-full flex justify-between text-white items-center'>
 
     <div className='Navbar_logo'>
       <img src={images.gericht} alt="logo" className='w-40 cursor-pointer'/>
@@ -15,11 +15,11 @@ const Navbar = () => {
 
     <div className='nav_links hidden lg:block'>
       <ul className='flex'>
-        <li><a href="#Home" className='mx-4 link-hover'>Home</a></li>
-        <li><a href="#About" className='mx-4 link-hover'>About</a></li>
-        <li><a href="#Menu" className='mx-4 link-hover'>Menu</a></li>
-        <li><a href="#Awards" className='mx-4 link-hover'>Awards</a></li>
-        <li><a href="#Contact" className='mx-4 link-hover'>Contact</a></li>
+        <li><a href="/gericht" className='mx-4 link-hover'>Home</a></li>
+        <li><a href="/About" className='mx-4 link-hover'>About</a></li>
+        <li><a href="/Bar" className='mx-4 link-hover'>Bar</a></li>
+        <li><a href="/Services" className='mx-4 link-hover'>Services</a></li>
+        <li><a href="/Contact" className='mx-4 link-hover'>Contact</a></li>
       </ul>
     </div>
 

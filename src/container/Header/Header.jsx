@@ -1,9 +1,11 @@
 import React from 'react';
 import SubHeading from '../../components/SubHeading/SubHeading';
 import {images} from '../../constants';
+import Navbar from '../../components/Navbar/Navbar';
 const Header = () => (
   // the last time i was collecting font sizes for design
   <section id='Home' className='bg-[#0C0C0C]'>
+    <Navbar />
     <div className='home-wrapper w-full p-8 sm:p-16'>
       <div className='home-content flex flex-col items-center justify-around lg:flex-row'>
         <div className='home-left flex flex-col items-start mb-8 w-full lg:mb-0 lg:max-w-lg'>

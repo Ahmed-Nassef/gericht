@@ -1,0 +1,18 @@
+.input-style{
+  -webkit-appearance: none;
+  text-align: start;
+  padding: 0.6rem;
+  color: white;
+  background-color: #0C0C0C;
+  border: 1px solid #DCCA87;
+  
+}
+input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+}
+input[type="time"]::-webkit-calendar-picker-indicator {
+  background: none;
+  display: none;
+}

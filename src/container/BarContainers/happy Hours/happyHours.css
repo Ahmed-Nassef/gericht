@@ -1,0 +1,6 @@
+.happyHours-background{
+  background-image: url(../../../assets/BarImages/happyHoursBG.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  object-fit: cover;
+}

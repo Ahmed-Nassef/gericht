@@ -20,8 +20,21 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
-
+import BarWelcome from '../assets/BarImages/BarWelcome.webp';
+import poison1 from '../assets/BarImages/poison1.webp';
+import poison2 from '../assets/BarImages/poison2.webp';
+import poison3 from '../assets/BarImages/poison3.webp';
+import drinks1 from '../assets/BarImages/drinks1.webp';
+import drinks2 from '../assets/BarImages/drinks2.webp';
+import happyHoursBG from '../assets/BarImages/happyHoursBG.webp';
 export default {
+  BarWelcome,
+  poison1,
+  poison2,
+  poison3,
+  drinks1,
+  drinks2,
+  happyHoursBG,
   bg,
   chef,
   G,
