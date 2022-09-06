@@ -18,6 +18,7 @@ import award02 from '../assets/award02.png';
 import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
+import vector from '../assets/vector.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import BarWelcome from '../assets/BarImages/BarWelcome.webp';
@@ -27,7 +28,26 @@ import poison3 from '../assets/BarImages/poison3.webp';
 import drinks1 from '../assets/BarImages/drinks1.webp';
 import drinks2 from '../assets/BarImages/drinks2.webp';
 import happyHoursBG from '../assets/BarImages/happyHoursBG.webp';
+import history1 from '../assets/AboutImages/history1.webp';
+import history2 from '../assets/AboutImages/history2.webp';
+import BrooklySimmon from '../assets/AboutImages/BrooklynSimmons.webp';
+import JaneCooper from '../assets/AboutImages/JaneCooper.webp';
+import RobertFox from '../assets/AboutImages/RobertFox.webp';
+import WadeWarren from '../assets/AboutImages/WadeWarren.webp';
+import AboutVid from '../assets/AboutImages/AboutVid.webp';
+import Aboutbg from '../assets/AboutImages/Aboutbg.webp';
+import cohol from '../assets/cohol.webp'
 export default {
+  cohol,
+  vector,
+  history1,
+  history2,
+  BrooklySimmon,
+  JaneCooper,
+  RobertFox,
+  WadeWarren,
+  AboutVid,
+  Aboutbg,
   BarWelcome,
   poison1,
   poison2,

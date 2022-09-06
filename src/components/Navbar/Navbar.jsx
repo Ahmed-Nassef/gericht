@@ -3,11 +3,11 @@ import './Navbar.css';
 import {GiHamburgerMenu} from 'react-icons/gi';
 import {MdRestaurantMenu} from 'react-icons/md';
 import images from '../../constants/images';
-const Navbar = () => {
+const Navbar = ({style}) => {
   let [toggle, setToggle] = useState(false);
   return(
 
-  <nav className='py-7 px-7 w-full flex justify-between text-white items-center'>
+  <nav style={style} className='py-7 px-7 w-full flex justify-between text-white items-center'>
 
     <div className='Navbar_logo'>
       <img src={images.gericht} alt="logo" className='w-40 cursor-pointer'/>
@@ -19,7 +19,7 @@ const Navbar = () => {
         <li><a href="/About" className='mx-4 link-hover'>About</a></li>
         <li><a href="/Bar" className='mx-4 link-hover'>Bar</a></li>
         <li><a href="/Services" className='mx-4 link-hover'>Services</a></li>
-        <li><a href="/Contact" className='mx-4 link-hover'>Contact</a></li>
+        <li><a href="/Blog" className='mx-4 link-hover'>Blog</a></li>
       </ul>
     </div>
 

@@ -1,0 +1,6 @@
+#AboutHeader-bg{
+  /* background-image: url(../../../assets/AboutImages/Aboutbg.webp); */
+  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../../../assets/AboutImages/Aboutbg.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
