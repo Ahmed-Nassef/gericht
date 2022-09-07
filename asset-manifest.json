@@ -1,29 +1,45 @@
 {
   "files": {
-    "main.css": "/gericht/static/css/main.cb1a750d.css",
-    "main.js": "/gericht/static/js/main.7a4ad341.js",
+    "main.css": "/gericht/static/css/main.e19294e4.css",
+    "main.js": "/gericht/static/js/main.8bfdb095.js",
     "static/media/test2.mp4": "/gericht/static/media/test2.7c1a40f4d7558addd5f1.mp4",
     "static/media/findus.webp": "/gericht/static/media/findus.a129d78cd5dfaf9a8e6f.webp",
     "static/media/chef.webp": "/gericht/static/media/chef.c6bbb090a9ae3ac4171e.webp",
     "static/media/overlaybg.png": "/gericht/static/media/overlaybg.165362eea72d1614ae28.png",
     "static/media/laurels.webp": "/gericht/static/media/laurels.da406aeb71e4353a9855.webp",
     "static/media/welcome.webp": "/gericht/static/media/welcome.fbe0048e299531de48b8.webp",
+    "static/media/AboutVid.webp": "/gericht/static/media/AboutVid.b8b5e501f6cdb07a8516.webp",
     "static/media/menu.webp": "/gericht/static/media/menu.9ca70c9661a9171f634c.webp",
+    "static/media/cohol.webp": "/gericht/static/media/cohol.6cfacc9093f3b3a62d37.webp",
     "static/media/gallery03.webp": "/gericht/static/media/gallery03.f80c35b4564c1924d5f6.webp",
     "static/media/knife.png": "/gericht/static/media/knife.6623ab75ae4ebb170321.png",
     "static/media/gallery04.webp": "/gericht/static/media/gallery04.76dec2d62b05b6f19715.webp",
     "static/media/bg.webp": "/gericht/static/media/bg.a42ccec703a5a0b687eb.webp",
+    "static/media/history2.webp": "/gericht/static/media/history2.455ac2f863b5c71fb656.webp",
+    "static/media/Aboutbg.webp": "/gericht/static/media/Aboutbg.5d372da5cf1c2a2dfeab.webp",
+    "static/media/history1.webp": "/gericht/static/media/history1.1a33531f64d939d1ff58.webp",
     "static/media/gallery02.webp": "/gericht/static/media/gallery02.40c63091d734a18d5075.webp",
+    "static/media/BarWelcome.webp": "/gericht/static/media/BarWelcome.12a74c0d91eb013ac473.webp",
+    "static/media/happyHoursBG.webp": "/gericht/static/media/happyHoursBG.058cd0f1bd7381fadc37.webp",
+    "static/media/drinks1.webp": "/gericht/static/media/drinks1.416cab0d638264639af0.webp",
     "static/media/gallery01.webp": "/gericht/static/media/gallery01.f2e83e77d92e2d88e32e.webp",
+    "static/media/poison3.webp": "/gericht/static/media/poison3.30453acc7a7206aec859.webp",
+    "static/media/poison2.webp": "/gericht/static/media/poison2.fe125ed266d554845f62.webp",
+    "static/media/poison1.webp": "/gericht/static/media/poison1.45e9ede922ad63d38167.webp",
+    "static/media/drinks2.webp": "/gericht/static/media/drinks2.73f6ba6af4f19cf6d2ec.webp",
     "static/media/logo.png": "/gericht/static/media/logo.0286194c03de0a90dac9.png",
     "static/media/sign.png": "/gericht/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "static/media/JaneCooper.webp": "/gericht/static/media/JaneCooper.eb6bdcda0735dd0ad5e9.webp",
+    "static/media/RobertFox.webp": "/gericht/static/media/RobertFox.d1d14bab384df1b08828.webp",
+    "static/media/BrooklynSimmons.webp": "/gericht/static/media/BrooklynSimmons.a047e50f68695afbbc11.webp",
+    "static/media/WadeWarren.webp": "/gericht/static/media/WadeWarren.a52bffdd07e73b86623b.webp",
     "static/media/spoon.svg": "/gericht/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
     "index.html": "/gericht/index.html",
-    "main.cb1a750d.css.map": "/gericht/static/css/main.cb1a750d.css.map",
-    "main.7a4ad341.js.map": "/gericht/static/js/main.7a4ad341.js.map"
+    "main.e19294e4.css.map": "/gericht/static/css/main.e19294e4.css.map",
+    "main.8bfdb095.js.map": "/gericht/static/js/main.8bfdb095.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb1a750d.css",
-    "static/js/main.7a4ad341.js"
+    "static/css/main.e19294e4.css",
+    "static/js/main.8bfdb095.js"
   ]
 }
